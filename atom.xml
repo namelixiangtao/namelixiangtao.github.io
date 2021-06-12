@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>li</title>
+  
+  <subtitle>黑夜中行走的人啊！让我带给你一些“光明”吧！</subtitle>
+  <link href="https://namelixiangtao.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://namelixiangtao.github.io/"/>
+  <updated>2021-06-12T05:14:52.158Z</updated>
+  <id>https://namelixiangtao.github.io/</id>
+  
+  <author>
+    <name>li</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>阿里云oss文件存储服务器在项目中的使用</title>
+    <link href="https://namelixiangtao.github.io/2021/06117521.html"/>
+    <id>https://namelixiangtao.github.io/2021/06117521.html</id>
+    <published>2021-06-11T08:22:09.000Z</published>
+    <updated>2021-06-12T05:14:52.158Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;一、对象存储OSS&quot;&gt;&lt;a href=&quot;#一、对象存储OSS&quot; class=&quot;headerlink&quot; title=&quot;一、对象存储OSS&quot;&gt;&lt;/a&gt;一、对象存储OSS&lt;/h3&gt;&lt;p&gt;​        为了解决海量数据存储与弹性扩容，项目中我们采用云存储的解决方案</summary>
+        
+      
+    
+    
+    
+    
+    <category term="oss" scheme="https://namelixiangtao.github.io/tags/oss/"/>
+    
+  </entry>
+  
+</feed>
