@@ -6,7 +6,7 @@
   <link href="https://namelixiangtao.github.io/atom.xml" rel="self"/>
   
   <link href="https://namelixiangtao.github.io/"/>
-  <updated>2021-06-12T05:14:52.158Z</updated>
+  <updated>2022-06-10T18:03:03.236Z</updated>
   <id>https://namelixiangtao.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Redis</title>
+    <link href="https://namelixiangtao.github.io/2021/121627273.html"/>
+    <id>https://namelixiangtao.github.io/2021/121627273.html</id>
+    <published>2021-12-16T13:47:18.409Z</published>
+    <updated>2022-06-10T18:03:03.236Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;pre&gt;&lt;code&gt;title: Centos 上安装指定版本的redis 
+tags: redis
+categoreies: redis
+img: &#39;https://s2.loli.net/2022/06/11/s6SKjWmDFI3TuP8.webp&#39;
+author:</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>阿里云oss文件存储服务器在项目中的使用</title>
